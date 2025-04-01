@@ -1,0 +1,37 @@
+[
+    {
+        "id_usuario": 1,
+        "id": 1,
+        "descricao": "Desenvolver função de busca por relevância",
+        "status": "Em andamento",
+        "prazo": "2025-05-15"
+    },
+    {
+        "id_usuario": 1,
+        "id": 2,
+        "descricao": "Corrigir bugs no sistema de login",
+        "status": "Pendente",
+        "prazo": "2025-04-10"
+    },
+    {
+        "id_usuario": 1,
+        "id": 3,
+        "descricao": "Implementar API de pagamento",
+        "status": "Atrasada",
+        "prazo": "2025-03-28"
+    },
+    {
+        "id_usuario": 1,
+        "id": 4,
+        "descricao": "Criar interface de usuário para dashboard administrativo",
+        "status": "Planejada",
+        "prazo": "2025-06-01"
+    },
+    {
+        "id_usuario": 1,
+        "id": 5,
+        "descricao": "Otimizar consultas SQL para melhor performance",
+        "status": "Em andamento",
+        "prazo": "2025-04-25"
+    }
+]
