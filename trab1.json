@@ -17,14 +17,14 @@
         "id_usuario": 1,
         "id": 3,
         "descricao": "Implementar API de pagamento",
-        "status": "Atrasada",
+        "status": "Concluído",
         "prazo": "2025-03-28"
     },
     {
         "id_usuario": 1,
         "id": 4,
         "descricao": "Criar interface de usuário para dashboard administrativo",
-        "status": "Planejada",
+        "status": "Concluído",
         "prazo": "2025-06-01"
     },
     {
